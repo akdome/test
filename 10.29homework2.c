@@ -8,5 +8,4 @@ average=all/4.0;
 printf("all is %.1f\n",all);
 printf("average is %.1f\n",average);
 return 0;
-
 }
